@@ -1,0 +1,15 @@
+{
+    "total_requests": 9,
+    "status_summary": [
+        {
+            "category": "2XX",
+            "count": 2,
+            "percentage": 22.22
+        },
+        {
+            "category": "0XX",
+            "count": 7,
+            "percentage": 77.78
+        }
+    ]
+}
